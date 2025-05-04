@@ -25,32 +25,23 @@
 </div>
 
 
-
-
-
-
-## <div align="center">📊 GitHub Stats</div>
-
+<div align="center">📊 GitHub Stats</div>
 <div align="center">
-  <table border="0">
+  <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ashut0shj&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-stats-alpha.vercel.app/api?username=ashut0shj&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashut0shj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashut0shj&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashut0shj&theme=tokyo-night&hide_border=true&height=300" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashut0shj&theme=tokyonight" alt="Profile Summary" />
 </div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ashut0shj&style=for-the-badge&color=6366F1" alt="Profile Views" />
 </div>
-
