@@ -1,7 +1,7 @@
-# <div align="center">👋 Hello World! I'm Ashutosh Jaiswal</div>
+# <div align="center">print("Hello World")</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Data+Science+%26+AI+Student;App+Development+Enthusiast;Blockchain+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Ashutosh;Jaiswal" alt="Typing SVG" />
 </div>
 
 <div align="center">
