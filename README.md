@@ -13,9 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
-
 ## <div align="center">About Me</div>
-
 <div align="center">
   <p>
     I'm a B.Tech student in Data Science & Artificial Intelligence at IIIT Naya Raipur (2022-2026). I enjoy working on innovative projects while continuously expanding my technical skills.
@@ -25,38 +23,88 @@
 ## <div align="center">Tech Stack</div>
 
 <div align="center">
-  
-  ### Languages
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
-  ### Frontend Development
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  
-  ### Backend Development
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Hardhat](https://img.shields.io/badge/Hardhat-F9DC3E?style=for-the-badge&logo=hardhat&logoColor=black)
-
-  
-  ### Tools & Platforms
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+        <br>Django
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48" />
+        <br>C
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="48" height="48" />
+        <br>Dart
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="48" height="48" />
+        <br>Solidity
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48" />
+        <br>Flutter
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="48" height="48" />
+        <br>Flask
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48" />
+        <br>Firebase
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" />
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="48" height="48" />
+        <br>Ethereum
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="48" height="48" />
+        <br>AWS
+      </td>
+    </tr>
+  </table>
 </div>
-<br>
+
 <div align="center">
   <table>
     <tr>
