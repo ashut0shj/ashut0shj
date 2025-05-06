@@ -1,6 +1,6 @@
 # <div align="center">print("Hello World")</div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Ashutosh;Jaiswal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=500&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Ashutosh;Jaiswal" alt="Typing SVG" />
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/ashut0sh28/">
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
 ## <div align="center">About Me</div>
 <div align="center">
   <p>
@@ -21,10 +22,14 @@
 </div>
 
 ## <div align="center">Tech Stack</div>
-
 <div align="center">
+  <h3>Languages</h3>
   <table>
     <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48" />
+        <br>C
+      </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
         <br>C++
@@ -34,49 +39,17 @@
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-        <br>Django
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48" />
-        <br>C
-      </td>
-      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="48" height="48" />
         <br>Dart
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="48" height="48" />
         <br>Solidity
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48" />
-        <br>Flutter
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="48" height="48" />
-        <br>Flask
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48" />
-        <br>Firebase
-      </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
         <br>HTML5
@@ -85,13 +58,64 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" />
         <br>CSS3
       </td>
+    </tr>
+  </table>
+  <h3>Frontend</h3>
+  <table>
+    <tr>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="48" height="48" />
-        <br>Ethereum
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
       </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48" />
+        <br>Flutter
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" />
+        <br>CSS3
+      </td>
+    </tr>
+  </table>
+  <h3>Backend</h3>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+        <br>Django
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="48" height="48" />
+        <br>Flask
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" alt="Hardhat" width="48" height="48" />
+        <br>Hardhat
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
+        <br>Node.js
+      </td>
+    </tr>
+  </table>
+  <h3>Tools</h3>
+  <table>
+    <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" />
         <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="48" height="48" />
+        <br>SQL
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" />
@@ -101,11 +125,21 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="48" height="48" />
         <br>AWS
       </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48" />
+        <br>Firebase
+      </td>
     </tr>
   </table>
+  <h3>Technical Skills</h3>
+  <p>Data Structures & Algorithms • App Development • Web Development • Machine Learning • AI</p>
 </div>
+<br><br>
 
+  ## <div align="center">Overview</div><br>
 <div align="center">
+
+
   <table>
     <tr>
       <td>
