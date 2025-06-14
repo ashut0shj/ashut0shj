@@ -23,7 +23,7 @@
 ## <div align="center">About Me</div>
 <div align="center">
   <p>
-    I'm a B.Tech student in Data Science & Artificial Intelligence at IIIT Raipur (2022-2026). I enjoy working on innovative projects while continuously expanding my technical skills.
+    I'm a B.Tech student in Data Science & Artificial Intelligence at IIIT Raipur (2022-2026) amd poha enthusiast. I enjoy working on innovative projects while continuously expanding my technical skills.
   </p>
 </div>
 
