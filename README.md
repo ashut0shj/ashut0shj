@@ -23,7 +23,7 @@
 
 <div align="center">
 <br />
-  <a href=https://youtube.com/@prathamj28" target="_blank ">Check out my Portfolio</a>
+  <a href=https://youtube.com/@prathamj28" target="_blank ">Check out my YouTube</a>
 </div>
 
 
